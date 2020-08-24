@@ -1,0 +1,15 @@
+{
+  "name": "ailo-challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for Ailo",
+  "main": "./index.js",
+  "scripts": {
+    "test": "jest",
+    "program": "node ./index.js"
+  },
+  "author": "Humza Bin Javaid",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  }
+}
